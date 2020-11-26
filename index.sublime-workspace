@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"peac",
+				"Peach"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"index",
+				"index-kenburns"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 172.800003052,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/CLG STUFF/udemy web devop course/My Website/index.html",
+		"/E/CLG STUFF/udemy web devop course/Webite/hobbies.html",
+		"/E/CLG STUFF/udemy web devop course/Webite/contact.html",
+		"/E/CLG STUFF/udemy web devop course/New folder/Debugging Problem 2",
+		"/E/CLG STUFF/udemy web devop course/New folder/Debugging Problem 1",
+		"/E/CLG STUFF/udemy web devop course/Webite/css/styles.css",
+		"/E/CLG STUFF/udemy web devop course/Cheese family/cheese.css",
+		"/E/CLG STUFF/udemy web devop course/Cheese family/index.html",
+		"/E/CLG STUFF/udemy web devop course/Webite/index.html",
+		"/E/CLG STUFF/udemy web devop course/Webite/CSS-Cheese Family",
+		"/E/CLG STUFF/udemy web devop course/Webite/css",
+		"/E/CLG STUFF/udemy web devop course/firstwebsite.html",
+		"/F/My website/CSS/style.css",
+		"/F/My website/index.html",
+		"/F/My website/images/WhatsApp Image 2020-08-24 at 20.34.03 (3).jpeg",
+		"/F/My website/images2/WhatsApp Image 2020-08-24 at 20.34.03 (14).jpeg",
+		"/F/My website/images/header.jpg",
+		"/F/My website/images/images (1).jpg",
+		"/C/Users/Hp/coursera-test/site/doc_before.html",
+		"/C/Users/Hp/coursera-test/site/index.html",
+		"/C/Users/Hp/Desktop/coursera-test/index.html",
+		"/C/xampp/htdocs/MGM/all php activty/Bachelor of Architecture Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Civil Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Computer Science (B.Sc.)acti.php",
+		"/C/xampp/htdocs/MGM/all php activty/CSE Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Electrical Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Electronics & Telecommunication Engineering (B.Tech.)Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Fashion Design (B. Des.) Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Hardware & Networking (B. Sc.)Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/IT Activities (2).php",
+		"/C/xampp/htdocs/MGM/all php activty/IT Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity  Bioinformatics.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity  Biotechnology.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Animation.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Architecture – General.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Computer Science.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Electrical Power System.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity ELECTRONICS ENGINEERING (M.Tech).php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Industrial Microbiology.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Information Tech .php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Interior Design.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity M.Sc.in Data Science and Analytics.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Mass Communication & Journalism.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Mechanical Manufacturing Engineering.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Plant Biotechnology.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Plant Breeding & Molecular Genetics.php",
+		"/C/xampp/htdocs/MGM/all php activty/PG Acitivity Structural Engineering.php",
+		"/C/xampp/htdocs/MGM/all php activty/Textile Design (B. Des.) Activities.php",
+		"/C/xampp/htdocs/MGM/Drawing and Painting (B.F.A.) Activities.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Master of Business Administration (MBA)faculty.html",
+		"/C/Users/Hp/Downloads/[DesireCourse.Com] Udemy - The Complete Digital Marketing Course 2017 – 12 Courses in 1/[DesireCourse.Com] Udemy - The Complete Digital Marketing Course 2017 – 12 Courses in 1/15 Conclusion/177 How to Get Your Certificate of Completition.html",
+		"/C/Users/Hp/Downloads/[DesireCourse.Com] Udemy - The Complete Digital Marketing Course 2017 – 12 Courses in 1/[DesireCourse.Com] Udemy - The Complete Digital Marketing Course 2017 – 12 Courses in 1/[DesireCourse.Com].txt",
+		"/C/xampp/htdocs/MGM/all php activty/Chemical Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/BioTechnology (B.Sc. Hons.)Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Bioinformatics (B.Sc. Hons.) Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Bhm (Hotel Management).acti.php",
+		"/C/xampp/htdocs/MGM/all php activty/Bachelor of Travel _ Tourism Management.acti.php",
+		"/C/xampp/htdocs/MGM/all php activty/Bachelor of Computer Application (B.C.A.) Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Bachelor of Aviation _ Hospitality Management.acti.php",
+		"/C/xampp/htdocs/MGM/all php activty/B.A.(Hons.) Mass Communication & Journalism Activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/B.A.(Hons.) International Journalism and Mass Communication Activities.php",
+		"/C/xampp/htdocs/MGM/Master of Business Administration (MBA)faculty.html",
+		"/C/xampp/htdocs/MGM/ELECTRONICS _ TELECOMMUNICATION ENGINEERING(M.Tech.)faculty.php",
+		"/C/Users/Hp/Desktop/MGM/Computer Science (B.Sc.)acti.html",
+		"/C/Users/Hp/Desktop/MGM/btech_cse_activities.php",
+		"/C/xampp/htdocs/MGM/all php activty/Animation (B. Sc.)Activities.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/MA (Convergent Media)faculty.html",
+		"/C/xampp/htdocs/MGM/MA (Convergent Media)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/MA (Mass Communication _ Journalism)faculty.html",
+		"/C/xampp/htdocs/MGM/MA (Mass Communication _ Journalism)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Master of Computer Applications (MCA)faculty.html",
+		"/C/xampp/htdocs/MGM/Master of Computer Applications (MCA)faculty.php",
+		"/C/xampp/htdocs/MGM/Master of Computer Applications (MCA)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Master of Interior design(MFA)faculty.html",
+		"/C/xampp/htdocs/MGM/Master of Interior design(MFA)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Master of Architecture (Environment)(M.arch)faculty.html",
+		"/C/xampp/htdocs/MGM/Master of Architecture (Environment)(M.arch)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Master of Architecture (General)(M.arch)faculty.html",
+		"/C/xampp/htdocs/MGM/Master of Architecture (General)(M.arch)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Industrial Microbiology(M.Sc.)faculty.html",
+		"/C/xampp/htdocs/MGM/Industrial Microbiology(M.Sc.)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/BioInformatics(M.Sc.) faculty.html",
+		"/C/xampp/htdocs/MGM/BioInformatics(M.Sc.) faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/BioTechnology(M.Sc.)faculty.html",
+		"/C/xampp/htdocs/MGM/BioTechnology(M.Sc.)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Plant Breeding and Molecular Biology(M.sc)faculty.html",
+		"/C/xampp/htdocs/MGM/Plant Breeding and Molecular Biology(M.sc)faculty.php",
+		"/C/xampp/htdocs/MGM/Plant Breeding and Molecular Biology(M.sc)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Plant BioTechnology(M.Sc.) faculty.html",
+		"/C/xampp/htdocs/MGM/Plant BioTechnology(M.Sc.) faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Information Technology (M.Sc)faculty.html",
+		"/C/xampp/htdocs/MGM/Information Technology (M.Sc)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Computer Science (M.Sc.) faculty.html",
+		"/C/xampp/htdocs/MGM/Computer Science (M.Sc.) faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/bsc_mscdatasci_faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Electrical Power System(M.Tech.)faculty.html",
+		"/C/xampp/htdocs/MGM/Electrical Power System(M.Tech.)faculty.html",
+		"/C/xampp/htdocs/MGM/Computer Science and Engineering(M.Tech.) - faculty.php",
+		"/C/xampp/htdocs/MGM/Structural Engineering (M.Tech.)faculty.php",
+		"/C/xampp/htdocs/MGM/Mechanical Manufacturing Engineering(M.tech)faculty.php",
+		"/C/xampp/htdocs/MGM/bsc_anim_faculty.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/ELECTRONICS _ TELECOMMUNICATION ENGINEERING(M.Tech.)faculty.html",
+		"/C/xampp/htdocs/MGM/ELECTRONICS _ TELECOMMUNICATION ENGINEERING(M.Tech.)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Computer Science and Engineering(M.Tech.) - faculty.html",
+		"/C/xampp/htdocs/MGM/Computer Science and Engineering(M.Tech.) - faculty.html",
+		"/C/xampp/htdocs/MGM/Mechanical Manufacturing Engineering(M.tech)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Mechanical Manufacturing Engineering(M.tech)faculty.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Structural Engineering (M.Tech.)faculty.html",
+		"/C/xampp/htdocs/MGM/Structural Engineering (M.Tech.)faculty.html",
+		"/C/xampp/htdocs/MGM/add-professors1.php",
+		"/C/xampp/htdocs/MGM/all php files/Textile Design (B. Des.) Activities.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/Textile Design (B. Des.) Activities.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Structural Engineering.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity Structural Engineering.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Plant Breeding & Molecular Genetics.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity Plant Breeding & Molecular Genetics.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Plant Biotechnology.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity Plant Biotechnology.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Mechanical Manufacturing Engineering.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity Mechanical Manufacturing Engineering.html",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity Mass Communication & Journalism.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Mass Communication & Journalism.php",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity M.Sc.in Data Science and Analytics.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity M.Sc.in Data Science and Analytics.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Interior Design.php",
+		"/C/xampp/htdocs/MGM/all linked/All_Linked/All Linked/PG Acitivity Interior Design.html",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Information Tech - Copy.php",
+		"/C/xampp/htdocs/MGM/all php files/PG Acitivity Information Tech.php"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 42.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
